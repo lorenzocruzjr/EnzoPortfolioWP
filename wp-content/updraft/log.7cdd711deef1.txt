@@ -1,0 +1,244 @@
+0000.001 (0) Opened log file at time: Tue, 05 Apr 2022 07:47:21 +0000 on http://localhost/myportfolio-website
+0000.010 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.9.2 PHP: 8.1.4 (apache2handler, Windows NT DESKTOP-I5APMDC 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.4.24-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 49.2M | 52M) multisite: N openssl: OpenSSL 1.1.1m  14 Dec 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 149475.2 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.018 (0) Semaphore (fd, wp_options) being initialised
+0000.027 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.035 (0) Set semaphore last lock (fd) time to 2022-04-05 07:47:21
+0000.037 (0) Semaphore lock (fd) complete
+0000.051 (0) Backup run: resumption=0, nonce=7cdd711deef1, file_nonce=7cdd711deef1 begun at=1649144841 (0s ago), job type=backup
+0000.059 (0) Scheduling a resumption (1) after 300 seconds (1649145141) in case this run gets aborted
+0000.076 (0) Checking if we have a zip executable available
+0000.082 (0) Creation of backups of directories: beginning
+0000.091 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.859 (0) Total entities for the zip file: 937 directories, 4579 files (0 skipped as non-modified), 78.9 MB
+0001.901 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.940 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.980 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.019 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.049 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 4579 files batched, 473 (473) added so far); re-opening (prior size: 0 KB)
+0008.421 (0) A useful amount of data was added after this amount of zip processing: 9.1 s (normalised: 9 s, rate: 2860 KB/s)
+0008.444 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 500 files added (on-disk size: 6920.2 KB)
+0008.483 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 600 files added (on-disk size: 6920.2 KB)
+0008.521 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 700 files added (on-disk size: 6920.2 KB)
+0008.566 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 800 files added (on-disk size: 6920.2 KB)
+0008.610 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 900 files added (on-disk size: 6920.2 KB)
+0008.649 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1000 files added (on-disk size: 6920.2 KB)
+0008.692 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1100 files added (on-disk size: 6920.2 KB)
+0008.744 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1200 files added (on-disk size: 6920.2 KB)
+0008.835 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1300 files added (on-disk size: 6920.2 KB)
+0008.878 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1400 files added (on-disk size: 6920.2 KB)
+0008.914 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.3 MB, 4579 files batched, 1001 (1474) added so far); re-opening (prior size: 6920.2 KB)
+0015.229 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1500 files added (on-disk size: 10534.8 KB)
+0015.319 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1600 files added (on-disk size: 10534.8 KB)
+0015.402 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1700 files added (on-disk size: 10534.8 KB)
+0015.453 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1800 files added (on-disk size: 10534.8 KB)
+0015.505 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 1900 files added (on-disk size: 10534.8 KB)
+0015.551 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2000 files added (on-disk size: 10534.8 KB)
+0015.595 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2100 files added (on-disk size: 10534.8 KB)
+0015.637 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2200 files added (on-disk size: 10534.8 KB)
+0015.679 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2300 files added (on-disk size: 10534.8 KB)
+0015.719 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2400 files added (on-disk size: 10534.8 KB)
+0015.730 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 4579 files batched, 948 (2422) added so far); re-opening (prior size: 10534.8 KB)
+0028.568 (0) A useful amount of data was added after this amount of zip processing: 14.2 s (normalised: 14.2 s, rate: 1802 KB/s)
+0028.661 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2500 files added (on-disk size: 17755.6 KB)
+0028.731 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2600 files added (on-disk size: 17755.6 KB)
+0028.835 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2700 files added (on-disk size: 17755.6 KB)
+0028.934 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2800 files added (on-disk size: 17755.6 KB)
+0029.026 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 2900 files added (on-disk size: 17755.6 KB)
+0029.110 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3000 files added (on-disk size: 17755.6 KB)
+0029.181 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3100 files added (on-disk size: 17755.6 KB)
+0029.250 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3200 files added (on-disk size: 17755.6 KB)
+0029.316 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3300 files added (on-disk size: 17755.6 KB)
+0029.383 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3400 files added (on-disk size: 17755.6 KB)
+0029.405 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.9 MB, 4579 files batched, 1001 (3423) added so far); re-opening (prior size: 17755.6 KB)
+0030.944 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3500 files added (on-disk size: 20061 KB)
+0031.013 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3600 files added (on-disk size: 20061 KB)
+0031.133 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3700 files added (on-disk size: 20061 KB)
+0031.222 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3800 files added (on-disk size: 20061 KB)
+0031.277 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 3900 files added (on-disk size: 20061 KB)
+0031.340 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 4000 files added (on-disk size: 20061 KB)
+0031.406 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 4100 files added (on-disk size: 20061 KB)
+0031.460 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 4200 files added (on-disk size: 20061 KB)
+0031.513 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 4300 files added (on-disk size: 20061 KB)
+0031.562 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 4400 files added (on-disk size: 20061 KB)
+0031.578 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.3 MB, 4579 files batched, 1001 (4424) added so far); re-opening (prior size: 20061 KB)
+0037.232 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.tmp: 4500 files added (on-disk size: 23151 KB)
+0040.573 (0) Creating zip file manifest (C:\xampp\htdocs\myportfolio-website/wp-content/updraft/backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.list-temp.tmp)
+0040.593 (0) Successfully created zip file manifest (size: 374646)
+0040.835 (0) Created plugins zip (0) - 23427.7 KB in 40.7 s (575.1 KB/s) (sha1: f6a89331c4f77171ecab276957b26443631e8f1d, sha256: 0832a8ae24ac98213fb9af9178d89cffbf8d3bc3b5f7913359299481b1e6347e)
+0040.843 (0) Beginning creation of dump of themes (split every: 400 MB)
+0041.248 (0) Total entities for the zip file: 236 directories, 1162 files (0 skipped as non-modified), 30.4 MB
+0041.286 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0041.324 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0041.361 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0041.399 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0041.436 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0041.473 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0041.520 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0041.557 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0041.589 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1162 files batched, 882 (882) added so far); re-opening (prior size: 0 KB)
+0052.026 (0) A useful amount of data was added after this amount of zip processing: 11.7 s (normalised: 11.7 s, rate: 2194.5 KB/s)
+0052.045 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 900 files added (on-disk size: 9634.3 KB)
+0052.085 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 1000 files added (on-disk size: 9634.3 KB)
+0052.123 (0) Zip: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.tmp: 1100 files added (on-disk size: 9634.3 KB)
+0053.870 (0) Creating zip file manifest (C:\xampp\htdocs\myportfolio-website/wp-content/updraft/backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.list-temp.tmp)
+0053.878 (0) Successfully created zip file manifest (size: 78643)
+0054.039 (0) Created themes zip (0) - 14333.5 KB in 13.2 s (1086.6 KB/s) (sha1: bc3c0e2c9aeaf564265f308d6a60d4d36cd6d49f, sha256: aba26406882b2b96d37f5bbd798371a3d389d12201d24cf7118439755bf155db)
+0054.046 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0054.049 (0) Looking for candidates to backup in: C:\xampp\htdocs\myportfolio-website/wp-content/uploads
+0054.052 (0) finding files: 2019: adding to list (1)
+0054.055 (0) finding files: 2022: adding to list (2)
+0054.058 (0) finding files: elementor: adding to list (3)
+0054.060 (0) finding files: template-kits: adding to list (4)
+0054.063 (0) finding files: wpcf7_uploads: adding to list (5)
+0054.066 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0054.124 (0) Total entities for the zip file: 12 directories, 77 files (0 skipped as non-modified), 11.1 MB
+0054.509 (0) Creating zip file manifest (C:\xampp\htdocs\myportfolio-website/wp-content/updraft/backup_2022-04-05-0747_Enzo_7cdd711deef1-uploads.zip.list-temp.tmp)
+0054.513 (0) Successfully created zip file manifest (size: 4998)
+0054.603 (0) Created uploads zip (0) - 8655.2 KB in 0.5 s (16243.6 KB/s) (sha1: 0d7c4d570463ffddde5fed706081a4e5fb913d35, sha256: cf6ea4bb09965a4b57aec4cf774c9ec7068f51742b68c38650740d20b28e1452)
+0054.610 (0) Beginning backup of other directories found in the content directory (index: 0)
+0054.613 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0054.616 (0) Looking for candidates to backup in: C:\xampp\htdocs\myportfolio-website/wp-content
+0054.619 (0) finding files: advanced-cache.php: adding to list (1)
+0054.622 (0) finding files: cache: skipping: excluded by options
+0054.624 (0) finding files: index.php: adding to list (2)
+0054.626 (0) finding files: plugins: skipping: this is the plugins directory
+0054.630 (0) finding files: themes: skipping: this is the themes directory
+0054.632 (0) finding files: updraft: skipping: this is the updraft directory
+0054.634 (0) finding files: upgrade: skipping: excluded by options
+0054.636 (0) finding files: uploads: skipping: this is the uploads directory
+0054.639 (0) finding files: wp-rocket-config: adding to list (3)
+0054.649 (0) Total entities for the zip file: 1 directories, 4 files (0 skipped as non-modified), 0 MB
+0054.663 (0) Creating zip file manifest (C:\xampp\htdocs\myportfolio-website/wp-content/updraft/backup_2022-04-05-0747_Enzo_7cdd711deef1-others.zip.list-temp.tmp)
+0054.666 (0) Successfully created zip file manifest (size: 167)
+0054.675 (0) Created others zip (0) - 2.2 KB in 0 s (68.8 KB/s) (sha1: c736e60ec9d02b5a39281d2e1ce97c87e3a73f46, sha256: 59ebb6ad7174143978c1f78739bb53c2a282307c5a0778698ecb8716f4f8c42b)
+0054.688 (0) Saving backup status to database (elements: 8)
+0054.693 (0) Beginning creation of database dump (WordPress DB)
+0054.699 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0054.763 (0) Table wp_options: Total expected rows (via COUNT): 278
+0054.764 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.793 (0) Table wp_options: Rows added in this batch (next record: 1336): 274 (uncompressed bytes in this segment=890060) in 0.06 seconds
+0054.807 (0) Table wp_options: finishing file(s) (2, 105.6 KB)
+0054.816 (0) Table wp_users: Total expected rows (via COUNT): 1
+0054.819 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.823 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1399) in 0.01 seconds
+0054.833 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0054.845 (0) Table wp_usermeta: Total expected rows (via COUNT): 29
+0054.847 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.852 (0) Table wp_usermeta: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=3466) in 0.01 seconds
+0054.861 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0054.875 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0054.879 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.01 seconds
+0054.889 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0054.899 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0054.901 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.905 (0) Table wp_comments: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=2543) in 0.01 seconds
+0054.914 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0054.928 (0) Table wp_links: Total expected rows (via COUNT): 0
+0054.932 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.01 seconds
+0054.940 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0055.359 (0) Table wp_postmeta: Total expected rows (approximate): 3470
+0055.926 (0) Table wp_postmeta: Rows added in this batch (next record: 3857): 3564 (uncompressed bytes in this segment=19902241) in 0.98 seconds
+0055.942 (0) Table wp_postmeta: finishing file(s) (2, 1539.5 KB)
+0056.319 (0) Table wp_posts: Total expected rows (via COUNT): 566
+0056.659 (0) Table wp_posts: Rows added in this batch (next record: 752): 566 (uncompressed bytes in this segment=9614821) in 0.71 seconds
+0056.695 (0) Table wp_posts: finishing file(s) (2, 123.3 KB)
+0056.710 (0) Table wp_term_relationships: Total expected rows (approximate): 14
+0056.717 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 13 (uncompressed bytes in this segment=858) in 0.02 seconds
+0056.729 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0056.745 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 6
+0056.747 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.753 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1089) in 0.02 seconds
+0056.769 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0056.817 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0056.824 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.02 seconds
+0056.839 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0056.852 (0) Table wp_terms: Total expected rows (via COUNT): 6
+0056.856 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.868 (0) Table wp_terms: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=915) in 0.02 seconds
+0056.877 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0056.900 (0) Table wp_wpr_rucss_resources: Total expected rows (via COUNT): 0
+0056.905 (0) Table wp_wpr_rucss_resources: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1150) in 0.01 seconds
+0056.916 (0) Table wp_wpr_rucss_resources: finishing file(s) (2, 0.5 KB)
+0056.930 (0) Table wp_wpr_rucss_used_css: Total expected rows (via COUNT): 0
+0056.932 (0) Table wp_wpr_rucss_used_css: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1007) in 0.01 seconds
+0056.941 (0) Table wp_wpr_rucss_used_css: finishing file(s) (2, 0.5 KB)
+0056.955 (0) Table wp_check_email_log: Total expected rows (via COUNT): 0
+0056.959 (0) Table wp_check_email_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1104) in 0.01 seconds
+0056.971 (0) Table wp_check_email_log: finishing file(s) (2, 0.5 KB)
+0056.985 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0056.989 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=542) in 0.01 seconds
+0056.999 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0057.002 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\myportfolio-website/wp-content/updraft/backup_2022-04-05-0747_Enzo_7cdd711deef1-db.gz (line 1836, C:\xampp\htdocs\myportfolio-website\wp-content\plugins\updraftplus\backup.php)
+0057.007 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_options.table.tmpr1337.gz (1/16/fopen): adding to final database dump
+0057.012 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_options.table.gz (2/16/fopen): adding to final database dump
+0057.014 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_users.table.tmpr2.gz (3/16/fopen): adding to final database dump
+0057.018 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_users.table.gz (4/16/fopen): adding to final database dump
+0057.021 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_usermeta.table.tmpr30.gz (5/16/fopen): adding to final database dump
+0057.023 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_usermeta.table.gz (6/16/fopen): adding to final database dump
+0057.025 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_commentmeta.table.tmpr0.gz (7/16/fopen): adding to final database dump
+0057.027 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_commentmeta.table.gz (8/16/fopen): adding to final database dump
+0057.030 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_comments.table.tmpr4.gz (9/16/fopen): adding to final database dump
+0057.032 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_comments.table.gz (10/16/fopen): adding to final database dump
+0057.035 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_links.table.tmpr0.gz (11/16/fopen): adding to final database dump
+0057.039 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_links.table.gz (12/16/fopen): adding to final database dump
+0057.041 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_postmeta.table.tmpr3858.gz (13/16/fopen): adding to final database dump
+0057.092 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_postmeta.table.gz (14/16/fopen): adding to final database dump
+0057.095 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_posts.table.tmpr753.gz (15/16/fopen): adding to final database dump
+0057.101 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_posts.table.gz (16/16/fopen): adding to final database dump
+0057.102 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_term_relationships.table.tmpr100001.gz (17/16/fopen): adding to final database dump
+0057.104 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_term_relationships.table.gz (18/16/fopen): adding to final database dump
+0057.107 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_term_taxonomy.table.tmpr7.gz (19/16/fopen): adding to final database dump
+0057.108 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_term_taxonomy.table.gz (20/16/fopen): adding to final database dump
+0057.110 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_termmeta.table.tmpr0.gz (21/16/fopen): adding to final database dump
+0057.112 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_termmeta.table.gz (22/16/fopen): adding to final database dump
+0057.114 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_terms.table.tmpr7.gz (23/16/fopen): adding to final database dump
+0057.118 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_terms.table.gz (24/16/fopen): adding to final database dump
+0057.119 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_wpr_rucss_resources.table.tmpr0.gz (25/16/fopen): adding to final database dump
+0057.121 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_wpr_rucss_resources.table.gz (26/16/fopen): adding to final database dump
+0057.124 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_wpr_rucss_used_css.table.tmpr0.gz (27/16/fopen): adding to final database dump
+0057.125 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_wpr_rucss_used_css.table.gz (28/16/fopen): adding to final database dump
+0057.127 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_check_email_log.table.tmpr0.gz (29/16/fopen): adding to final database dump
+0057.130 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_check_email_log.table.gz (30/16/fopen): adding to final database dump
+0057.132 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_e_events.table.tmpr0.gz (31/16/fopen): adding to final database dump
+0057.134 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db-table-wp_e_events.table.gz (32/16/fopen): adding to final database dump
+0057.162 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db.gz: finished writing out complete database file (1776 KB)
+0057.201 (0) Total database tables backed up: 16 (backup_2022-04-05-0747_Enzo_7cdd711deef1-db.gz, size: 1818748, sha1: 45ac246559ed117ffb29aa27aff4c62aea5586d9, sha256: a93d05472678b66e909593f1d0e5f6fa85d5e5616fe6e514221eb92aef240735)
+0057.238 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 2752, C:\xampp\htdocs\myportfolio-website\wp-content\plugins\updraftplus\backup.php)
+0057.246 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0057.250 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0057.253 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0057.257 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0057.259 (0) backup_2022-04-05-0747_Enzo_7cdd711deef1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0057.262 (0) Saving backup history. Total backup size: 47.1 MB
+0057.269 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0057.278 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0057.280 (0) No remote despatch: user chose no remote backup service
+0057.282 (0) Recording as successfully uploaded: backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip
+0057.288 (0) Deleting zip manifest (backup_2022-04-05-0747_Enzo_7cdd711deef1-plugins.zip.list.tmp)
+0057.291 (0) Recording as successfully uploaded: backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip
+0057.298 (0) Deleting zip manifest (backup_2022-04-05-0747_Enzo_7cdd711deef1-themes.zip.list.tmp)
+0057.300 (0) Recording as successfully uploaded: backup_2022-04-05-0747_Enzo_7cdd711deef1-uploads.zip
+0057.305 (0) Deleting zip manifest (backup_2022-04-05-0747_Enzo_7cdd711deef1-uploads.zip.list.tmp)
+0057.308 (0) Recording as successfully uploaded: backup_2022-04-05-0747_Enzo_7cdd711deef1-others.zip
+0057.313 (0) Deleting zip manifest (backup_2022-04-05-0747_Enzo_7cdd711deef1-others.zip.list.tmp)
+0057.318 (0) Recording as successfully uploaded: backup_2022-04-05-0747_Enzo_7cdd711deef1-db.gz
+0057.327 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0057.332 (0) Number of backup sets in history: 1; groups (db): 1
+0057.337 (0) Examining (for databases) backup set with group_id=0, nonce=7cdd711deef1, datestamp=1649144841 (Apr 05 2022 07:47:21)
+0057.339 (0) This backup set is the backup set just made, so will not be deleted.
+0057.339 (0) Number of backup sets in history: 1; groups (files): 1
+0057.341 (0) Examining (for files) backup set with nonce=7cdd711deef1, datestamp=1649144841 (Apr 05 2022 07:47:21)
+0057.341 (0) This backup set is the backup set just made, so will not be deleted.
+0057.343 (0) This backup set is the backup set just made, so will not be deleted.
+0057.343 (0) This backup set is the backup set just made, so will not be deleted.
+0057.343 (0) This backup set is the backup set just made, so will not be deleted.
+0057.343 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.346 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0057.353 (0) Resume backup (7cdd711deef1, 0): finish run
+0057.360 (0) Decremented the semaphore (fd) by 1
+0057.364 (0) Semaphore (fd) unlocked
+0057.366 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0057.373 (0) No email will/can be sent - the user has not configured an email address.
+0057.375 (0) The backup apparently succeeded and is now complete
